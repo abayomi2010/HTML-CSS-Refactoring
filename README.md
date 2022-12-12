@@ -8,5 +8,8 @@ The following image shows the webpage appearance:
 
 ## Screenshot
 ![Screenshot of my refactored webpage](assets/images/html-css-git-challenge.png)
-
+## Deployed Link
 Link to the deployed [application.](https://abayomi2010.github.io/HTML-CSS-Refactoring/) 
+
+## Repo Link
+https://github.com/abayomi2010/HTML-CSS-Refactoring
