@@ -1,3 +1,4 @@
+/* Turns the entire page into a box*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,23 +8,23 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Changed the CSS selector from a class(header) selector to a tag(header) selector*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Changed the CSS selector from a class selector to a tag(header) selector*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Changed the CSS selector from a class selector to a tag(header) selector and targeted a part of the name using the class selector in span*/
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Changed the CSS selector from a class selector to a tag(header) selector*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,7 +32,7 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Changed the CSS selector from a class selector to a tag(header) selector and targeted the unordered list*/
 header nav ul {
     list-style-type: none;
 }
@@ -59,12 +60,12 @@ p {
     background-position: center;
 
 }
-
+/*Makes the icon stay on the left side of the description*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*Makes the icon stay on the right side of the description*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -105,6 +106,7 @@ aside img {
 aside p {
     margin: 10px auto;
 }
+/* Changed the CSS selector from a class selector to a tag(section) selector*/
 
 section {
     margin-bottom: 20px;
@@ -123,6 +125,7 @@ section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Changed the CSS selector from a class selector to a tag(section) selector*/
 
 footer {
     padding: 30px;
@@ -130,7 +133,9 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+/* Changed the CSS selector from a class selector to a tag(section) selector*/
 
 footer h4 {
     font-size: 20px;
 }
+
