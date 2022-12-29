@@ -1,4 +1,4 @@
-# HTML-CSS-Refactoring
+# Horiseon
 This project was done to make the webpage more accessible using semantic HTML. I refactored the codebase to follow accessibility standards and make the site visible on google.
 so that this site is optimized for search engines.
 
